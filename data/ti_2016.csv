@@ -1,0 +1,19 @@
+,team,Rank,Major,Tournament,Invited,place,norm_elo
+0,Evil Geniuses,934,0,0,False,13-16,-0.74
+1,Team Secret,916,0,0,False,13-16,-0.93
+2,LGD Gaming,1080,0,0,True,4,0.8
+3,Newbee,1083,0,0,True,3,0.83
+4,Fnatic,967,0,0,False,5-6,-0.4
+5,Alliance,973,0,0,False,9-12,-0.33
+6,OG,1293,1,1,True,1,3.05
+7,Team Liquid,1129,0,0,True,2,1.32
+8,compLexity Gaming,915,0,0,False,9-12,-0.94
+9,MVP Phoenix,999,0,0,True,5-6,-0.06
+10,Vici Gaming Reborn,964,0,0,False,7-8,-0.43
+11,Natus Vincere,1047,0,0,True,7-8,0.45
+12,Digital Chaos,977,0,0,False,9-12,-0.29
+13,Team Empire,964,0,0,False,9-12,-0.43
+14,Mineski,927,0,0,False,13-16,-0.82
+15,Wings Gaming,932,0,0,False,13-16,-0.77
+16,Virtus.Pro,968,0,0,False,17,-0.39
+17,Vega Squadron,1012,0,0,False,17,0.08
